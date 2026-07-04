@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Willy&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%26%20Android%20%C2%B7%203D%20MMO%20Games%20%C2%B7%20Blockchain%20%C2%B7%20Cryptography&descSize=18&descAlignY=60" alt="Willy header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Willy&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Java%20and%20Android%20%7C%203D%20MMO%20Games%20%7C%20Blockchain%20%7C%20Cryptography&descSize=18&descAlignY=62" alt="Willy header banner"/>
 
 <!-- Typing animation cycling through specialties -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=19DCFF&center=true&vCenter=true&width=850&height=60&lines=Java+%26+Android+Development;3D+MMO+Game+Development;Cryptocurrency;Blockchain;Neuralchain;Cryptography+%26+Post-Quantum+Cryptography)](https://github.com/atamanchukw)
