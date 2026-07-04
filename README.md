@@ -61,18 +61,5 @@
   <img src="https://img.shields.io/badge/Web%20Services-005571?style=for-the-badge&logo=apachetomcat&logoColor=white" alt="Web Services"/>
 </p>
 
-<!-- ======================= GITHUB STATS ======================= -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=atamanchukw&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atamanchukw&theme=react-dark&hide_border=true&area=true&color=19dcff&line=19dcff&point=ffffff&custom_title=Willy%27s%20Contribution%20Graph" alt="Contribution activity graph"/>
-
-</div>
-
 <!-- ======================= FOOTER ======================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer wave"/>
